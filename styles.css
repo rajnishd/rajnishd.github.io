@@ -1,5 +1,5 @@
 body {
-	background: url('Mango.JPG') no-repeat  center;
+	background: url('Mango.JPG') no-repeat fixed center;
 	background-size: cover;
 	font-family: calibri;
 }
